@@ -1,9 +1,10 @@
 ### Salve! Eu sou Orlando Mota Pires. Bem vindo ao meu perfil!!!
 ##
 - 🔭 Estudando Engenharia da Computação
-- 🌱 Estudando HTML5 e CSS3 e JS
+- 🌱 Estudando HTML5, CSS3 e JS
 - 😄 Ele/dele
  ##
+ 
  <div>
   <a href="https://github.com/orlandomotapires">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=orlandomotapires&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
