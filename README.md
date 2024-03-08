@@ -9,7 +9,7 @@ Hello there! I'm Orlando Mota, a passionate Computer Engineering student at SENA
 - 🚀 Working with parallel programming & high-performance computing (CUDA, OneAPI, MPI).
 - 🌱 Vice-President of the Programming Club at SENAI/CIMATEC.
 - 🌍 Continuously seeking experiences to enhance my skills and knowledge.
-- 🎉 20 years young and always learning!
+- 🎉 21 years young and always learning!
 
 ## 🌐 Connect with me:
 
