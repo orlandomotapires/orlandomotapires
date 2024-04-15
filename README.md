@@ -1,6 +1,6 @@
 # Orlando Mota 👨‍💻
 
-Hello there! I'm Orlando Mota, a passionate Computer Engineering student at SENAI/CIMATEC. I'm on a journey to gain experience in the tech world, always eager to learn and face new challenges. I have a deep interest in physics, mathematics, quantum computing, and competitive programming. One of the greatest minds to ever walk the Earth, Isaac Newton, once said: "If I have seen further, it is by standing on the shoulders of giants", and is with that philosophy that I harbor the aspiration that one day I'll be able to contribute my own 'brick' to the monumental 'wall of knowledge' that humanity has been building since ancient times.
+Hello there! I'm Orlando Mota, a passionate Computer Engineering student at SENAI/CIMATEC. I'm on a journey to gain experience in the tech world, always eager to learn and face new challenges. I have a deep interest in physics, mathematics and quantum computing.
 
 ## 📚 About Me
 
