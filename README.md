@@ -1,6 +1,6 @@
 # Orlando Mota 👨‍💻
 
-Hello there! I'm Orlando Mota, a passionate Computer Engineering student at SENAI/CIMATEC. I'm on a journey to gain experience in the tech world, always eager to learn and face new challenges. I have a deep interest in physics, mathematics and quantum computing.
+Hello there! I'm Orlando Mota, a passionate Computer Engineering student at SENAI/CIMATEC. I have a deep interest in physics, mathematics and quantum computing.
 
 ## 📚 About Me
 
