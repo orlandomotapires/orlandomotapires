@@ -6,8 +6,8 @@ Hello there! I'm Orlando Mota, a passionate Computer Engineering student at SENA
 
 - 🎓 Studying Computer Engineering at SENAI/CIMATEC.
 - 🖥️ Involved in scientific research at the SENAI CIMATEC in field of Time series at Bio-Signals.
-- 🚀 Working with Time series at the LAQCC (Latino America Quantum Computing Center) at SENAI/CIMATEC.
-- 🌱 Ex Vice-President and Co-founder of the Programming Club Student Iniciative at SENAI/CIMATEC.
+- 🚀 Working at the LAQCC (Latino America Quantum Computing Center) at SENAI/CIMATEC.
+- 🌱 Co-founder of the Programming Club Student Iniciative at SENAI/CIMATEC.
 - 🎉 21 years young and always learning!
 
 ## 🌐 Connect with me:
