@@ -4,7 +4,7 @@ Hello there! I'm Orlando Mota, a passionate Computer Engineering student at SENA
 
 ## 📚 About Me
 
-- 🎓 Studying Computer Engineering at SENAI/CIMATEC.
+- 🎓 Studying Computer Engineering at SENAI CIMATEC.
 - 🖥️ Involved in scientific research at the SENAI CIMATEC in field of Time series at Bio-Signals.
 - 🚀 Working at the QUIIN (Quantum Industrial Inovation) at SENAI CIMATEC.
 - 🌱 Co-founder of the Programming Club Student Iniciative at SENAI CIMATEC.
