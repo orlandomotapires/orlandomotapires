@@ -5,7 +5,7 @@ Hello there! I'm Orlando Mota, a passionate Computer Engineering student at SENA
 ## 📚 About Me
 
 - 🎓 Studying Computer Engineering at SENAI CIMATEC.
-- 🚀 Working at the Fraunhofer IPT as a student assitant and studying oh RWTH Aachen University.
+- 🚀 Working at the Fraunhofer IPT as a student assitant and studying on RWTH Aachen University.
 - 🌱 Co-founder of the Programming Club Student Iniciative at SENAI CIMATEC.
 - 🎉 22 years young and always learning!
 
