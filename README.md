@@ -4,10 +4,11 @@ Hello there! I'm Orlando Mota, a passionate Computer Engineering student at SENA
 
 ## 📚 About Me
 
-- 🎓 Studying Computer Engineering at SENAI CIMATEC.
-- 🚀 Working at the Fraunhofer IPT as a student assitant and studying on RWTH Aachen University.
-- 🌱 Co-founder of the Programming Club Student Iniciative at SENAI CIMATEC.
-- 🎉 22 years young and always learning!
+I am a Computer Engineering student at Universidade Senai CIMATEC. Currently, I am working full-time at the Fraunhofer IPT in the field of high-precision cutting simulation using quantum computing.
+
+In addition, I am pursuing a sandwich degree program at RWTH Aachen University, with a focus on Quantum Information and Computing.
+
+During my undergraduate studies, I have conducted scientific research projects in the areas of High-Performance Computing (HPC), Machine Learning, and Quantum Computing. I am also the co-founder of a student-led initiative called the Programming Club at Universidade Senai CIMATEC.
 
 ## 🌐 Connect with me:
 
